@@ -20,6 +20,9 @@ npm i -g spacestone
 ```shell
 spacestone  --url https://www.example.com/someimage.png
 ```
+```shell
+spacestone -u https://raw.githubusercontent.com/vladocar/Spacestone/master/example/Metamorphosis.png
+```
 or locally:
 
 ```shell
