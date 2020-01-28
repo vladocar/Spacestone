@@ -1,0 +1,23 @@
+{
+  "name": "spacestone",
+  "version": "1.0.1",
+  "description": "CLI for tesseract.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "spacestone": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^2.19.0",
+    "tesseract.js": "^2.00.0"
+  },
+  "keywords": [
+    "CLI",
+    "tesseract.js",
+    "OCR"
+  ],
+  "author": "Vladimir Carrer <vladocar@gmail.com> (http://www.vcarrer.com)",
+  "license": "MIT"
+}
